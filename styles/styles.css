@@ -1,0 +1,13 @@
+html {
+    background-color: rgb(50, 50, 50);
+    color: rgb(190, 190, 190);
+    font-size: 20px;
+    height: 100vh;
+}
+
+body {
+    background-color: rgb(20, 20, 20);
+    max-width: 80%;
+    height: 100vh;
+    margin: 2em auto 6em;
+}
