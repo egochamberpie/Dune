@@ -7,7 +7,9 @@ html {
 
 body {
     background-color: rgb(20, 20, 20);
-    max-width: 80%;
+    padding: 2em 3em;
+    max-width: 65%;
+    border-radius: 0.4em;
     height: 100vh;
     margin: 2em auto 6em;
 }
