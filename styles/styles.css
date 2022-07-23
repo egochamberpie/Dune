@@ -6,10 +6,23 @@ html {
 }
 
 body {
-    background-color: rgb(20, 20, 20);
+    /* background-color: rgb(20, 20, 20); */
+    background-color: rgb(0, 0, 0);
     padding: 2em 3em;
     max-width: 65%;
     border-radius: 0.4em;
     height: 100vh;
     margin: 2em auto 6em;
+}
+
+#dune-logo {
+    width: 40%;
+    display: block;
+}
+
+nav {
+    display: flex;
+}
+nav > ul > li {
+    display: flex;
 }
