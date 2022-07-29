@@ -71,4 +71,9 @@ nav > ul > li > a:hover {
     border-radius: 3px;
 }
 
+fieldset > legend > label > div {
+    font-size: 2em;
+    color: yellow;
+}
+
 /* Make the background-colors of the list the same as the sections and changed the shades of them when hover effect is on  */
