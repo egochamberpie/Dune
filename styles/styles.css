@@ -111,4 +111,8 @@ button:hover {
 #button_div {
     text-align: center;
 }
+
+address {
+    text-align: center;
+}
 /* Make the background-colors of the list the same as the sections and changed the shades of them when hover effect is on  */
