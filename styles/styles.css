@@ -91,4 +91,24 @@ input[type=radio] {
     width: 80%;
     height: 2.2em;
 }
+
+button {
+    width: 85%;
+    height: 4em;
+    background-color: rgb(125, 113, 45);
+    color: rgb(194, 188, 188);
+    border-radius: 3px;
+    border: none;
+}
+
+button:hover {
+    width: 87%;
+    font-weight: 400;
+    cursor: pointer;
+    background-color: rgb(60, 54, 20);
+}
+
+#button_div {
+    text-align: center;
+}
 /* Make the background-colors of the list the same as the sections and changed the shades of them when hover effect is on  */
