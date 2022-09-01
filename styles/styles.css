@@ -87,5 +87,8 @@ input[type=radio] {
     margin-bottom: 1.4em;
 }
 
-
+#legacy_select {
+    width: 80%;
+    height: 2.2em;
+}
 /* Make the background-colors of the list the same as the sections and changed the shades of them when hover effect is on  */
