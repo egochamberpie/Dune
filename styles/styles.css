@@ -2,6 +2,7 @@ html {
     background-color: rgb(50, 50, 50);
     color: rgb(190, 190, 190);
     font-size: 20px;
+    font-family: 'Titillium Web', sans-serif;
     height: 100vh;
 }
 
@@ -55,6 +56,7 @@ nav > ul {
     width: 50%;
     list-style: none;
     justify-content: space-between;
+    padding-top: 0.8em;
 }
 
 nav > ul > li > a {
@@ -62,6 +64,7 @@ nav > ul > li > a {
     color: rgb(221, 201, 201);
     font-weight: 600;
     padding: 0.5em;
+    
 }
 
 nav > ul > li > a:hover {
@@ -72,7 +75,8 @@ nav > ul > li > a:hover {
 }
 
 fieldset > legend > label > div {
-    font-size: 1.3em;
+    font-size: 1em;
+    font-family: 'Aboreto', sans-serif;
     color: rgb(227, 221, 221);
 }
 
