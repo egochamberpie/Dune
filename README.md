@@ -1,3 +1,3 @@
-# Quiz Site
+# Dune
 
 A quiz site foucsed on its accessibility
